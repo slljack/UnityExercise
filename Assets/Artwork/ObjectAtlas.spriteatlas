@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ObjectAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4f83a5c99a14da74790e1f9a27abdfcf, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a835e060a1ef9a049a1457d15288a616, type: 3}
+  - {fileID: 21300000, guid: cb0b46e0ff4ceb3478c3252d176e90c6, type: 3}
+  - {fileID: 21300000, guid: 6200b6011b2c783499eb54106e3bb836, type: 3}
+  - {fileID: 21300000, guid: 671cff631f23f32418b6830696efa952, type: 3}
+  - {fileID: 21300000, guid: 03137c83fe17b9f4289e7d921815284c, type: 3}
+  - {fileID: 21300000, guid: 28763186a64ae6a48a29c4e9e4a71175, type: 3}
+  - {fileID: 21300000, guid: d003bea64380d09489bc53abea984375, type: 3}
+  - {fileID: 21300000, guid: a1dcdf775e3e08649831bd1fc2812343, type: 3}
+  - {fileID: 21300000, guid: 33e56c3be5f13a440a931ba60dcb6257, type: 3}
+  - {fileID: 21300000, guid: a612e27e9bb3c534c90f09607760dd6f, type: 3}
+  - {fileID: 21300000, guid: c773a29fdeeded4418a63b65dd677211, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - desk-2
+  - trash
+  - couch
+  - dresser
+  - tv-0
+  - crate
+  - desk-1
+  - tv-2
+  - chair
+  - desk-3
+  - tv-1
+  m_Tag: ObjectAtlas
+  m_IsVariant: 0
